@@ -26,3 +26,4 @@ function happyCustomHolidayTo(holiday, name)
 }
 
 var days = "20"
+var D = "Mother's "
