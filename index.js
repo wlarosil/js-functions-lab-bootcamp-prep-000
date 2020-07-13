@@ -25,5 +25,11 @@ function happyCustomHolidayTo(holiday, name)
   return (`Happy ${holiday}, ${name}!`);
 }
 
-var days = "20"
-var D = "Mother's "
+var days = "20";
+var  holiday = "Mother's Day ";
+function holidayCountdown(holiday, days)
+{
+  console.log()
+}
+
+
